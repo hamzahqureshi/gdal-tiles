@@ -5,6 +5,9 @@
 
 ## How to use these scripts
 
+* Create two directories in the root folder
+  * ./data
+  * ./output
 * Place input file in pdf format in /data folder
 * Convert the .pdf format file to corresponding .tiff file by executing:
 ```
